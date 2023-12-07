@@ -1,5 +1,5 @@
 # shoppingcart
-Shopping Cart UI
+Simple Shopping Cart UI Design
 
 ## Getting Started
 
